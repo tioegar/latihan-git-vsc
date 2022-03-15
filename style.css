@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'montserrat';   
+}
+
+body {
+    background-color:#FFF9A8;
+}
+
+.nav {
+    position: fixed;
+    background-color: #FFF9A8;
+    left: o;
+    width: 100%;
+    padding: 20px 100px;
+}
+
+.nav ul{
+    display: flex;
+}
+
+.nav ul li{
+    list-style: none;
+    margin-left: 5px x;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    padding: 0px 15px;
+    color: #F19800;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
